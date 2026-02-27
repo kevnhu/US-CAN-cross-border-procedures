@@ -106,10 +106,3 @@ Call the customs office at the airport. Preferably more than 24 hrs prior.
 ## Resources
 
 - AvCanada forum thread: <http://avcanada.ca/forums2/viewtopic.php?t=129327>
-
-## US Acronyms
-
-| Acronym | Meaning |
-|---|---|
-| MOA | Military Operational Area |
-| PJA | Parachute Jumping Activity |
