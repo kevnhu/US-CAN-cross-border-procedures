@@ -1,4 +1,4 @@
-# Flying to the US
+# US-CAN Cross-Border Procedures
 
 ## Canada to US
 
@@ -63,8 +63,6 @@ Call the customs office at the airport. Preferably more than 24 hrs prior.
 
 ## US to Canada (CANPASS)
 
-Reference: <https://www.cbsa-asfc.gc.ca/prog/canpass/privateair-eng.html>
-
 ### 1. Plan and Choose a Port of Entry
 
 - Must be a CANPASS-designated port (AOE/15/30...)
@@ -90,13 +88,13 @@ Reference: <https://www.cbsa-asfc.gc.ca/prog/canpass/privateair-eng.html>
 
 ### 5. File Flight Plan
 
+- File flight plan: 1-800-922-7433 (1-800-WX-BRIEF) or on Foreflight
 - Make sure to activate the flight plan and obtain a squawk code
-- How do you file on the US side? *(to be confirmed)*
 - **Must** be an activated flight plan -- call to double check, otherwise it will result in a CADOR
 
 ### 6. Fly
 
-- Pick up flight following across the border
+- Pick up flight following across the border (Boston or Montreal Centre)
 
 ### 7. Call CANPASS Again on Arrival
 
